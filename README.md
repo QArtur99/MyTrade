@@ -5,12 +5,14 @@
 ![Workflow result](https://github.com/QArtur99/WeTrade/workflows/Check/badge.svg)
 
 ## :scroll: Description
+
 Android Dev Challenge: Week 3 - Speed round
 
 ## :bulb: Motivation and Context
 -
 
 ## :camera_flash: Screenshots
+
 <p float="left">
 <img src="/results/screenshot_1.png" width="200">
 <img src="/results/screenshot_2.png" width="200">
